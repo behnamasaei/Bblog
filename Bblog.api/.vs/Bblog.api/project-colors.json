@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2e54e16-b809-4f3b-8299-3566a4dd416e": {
+      "ProjectGuid": "a2e54e16-b809-4f3b-8299-3566a4dd416e",
+      "DisplayName": "Bblog.api",
+      "ColorIndex": 0
+    },
+    "08891072-3baf-4ae5-96e3-731fb2ac04be": {
+      "ProjectGuid": "08891072-3baf-4ae5-96e3-731fb2ac04be",
+      "DisplayName": "Bblog.Domain",
+      "ColorIndex": 1
+    },
+    "795c3a3b-3d75-4b5e-9e42-fd14a26d6e6d": {
+      "ProjectGuid": "795c3a3b-3d75-4b5e-9e42-fd14a26d6e6d",
+      "DisplayName": "Bblog.Infrastructure",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

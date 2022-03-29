@@ -1,0 +1,5 @@
+D:\Asaei\Programming\Bblog\Bblog.api\Bblog.Infrastructure\obj\Debug\net6.0\Bblog.Infrastructure.csproj.AssemblyReference.cache
+D:\Asaei\Programming\Bblog\Bblog.api\Bblog.Infrastructure\obj\Debug\net6.0\Bblog.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asaei\Programming\Bblog\Bblog.api\Bblog.Infrastructure\obj\Debug\net6.0\Bblog.Infrastructure.AssemblyInfoInputs.cache
+D:\Asaei\Programming\Bblog\Bblog.api\Bblog.Infrastructure\obj\Debug\net6.0\Bblog.Infrastructure.AssemblyInfo.cs
+D:\Asaei\Programming\Bblog\Bblog.api\Bblog.Infrastructure\obj\Debug\net6.0\Bblog.Infrastructure.csproj.CoreCompileInputs.cache
